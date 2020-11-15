@@ -32,5 +32,5 @@ jobs:
         # You can change these environment variables for your configuration:   AZURE_SUBSCRIPTION_ID, AZURE_RESOURCE_GROUP
         subscriptionId: ${{ secrets.subscriptionid }}
         resourceGroupName: ARMLaDemo
-        template: template.json  # Set this to the location of your template file
-        parameters: parameters.json # Set this to the location of your parameters file
+        template: ../template.json  # Set this to the location of your template file
+        parameters: ../parameters.json # Set this to the location of your parameters file
