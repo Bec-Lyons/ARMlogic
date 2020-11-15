@@ -7,21 +7,6 @@
         },
         "serverfarms_ASP_ARMLaDemo_bce2_externalid":{
             "value":"/subscriptions/80b60a27-4eab-437e-899f-dde369cd1c17/resourceGroups/ARMLaDemo/providers/Microsoft.Web/serverfarms/ASP-ARMLaDemo-bce"
-        },
-        "connections_sql_2_name": {
-            "value": "sql"
-        },
-        "connections_office365_name": {
-            "value": "office365"
-        },
-        "components_armLAdemo_name": {
-            "value": "armLAdemo"
-        },
-        "serverfarms_ASP_ARMLaDemo_bce2_name": {
-            "value": "ASP-ARMLaDemo-bce2"
-        },
-        "storageAccounts_storageaccountarmlaa38d_name": {
-            "value": "storageaccountarmlaa38d"
         }
     }
 }
