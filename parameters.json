@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_armLAdemo_name": {
+            "value": "armLAdemo"
+        },
+        "connections_sql_2_name": {
+            "value": "sql"
+        },
+        "connections_office365_name": {
+            "value": "office365"
+        },
+        "components_armLAdemo_name": {
+            "value": "armLAdemo"
+        },
+        "serverfarms_ASP_ARMLaDemo_bce2_name": {
+            "value": "ASP-ARMLaDemo-bce2"
+        },
+        "storageAccounts_storageaccountarmlaa38d_name": {
+            "value": "storageaccountarmlaa38d"
+        }
+    }
+}
