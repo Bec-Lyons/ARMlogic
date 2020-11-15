@@ -3,7 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_armLAdemo_name": {
-            "value": "armLAdemo"
+            "value": "armLAdemotemplate"
+        },
+        "serverfarms_ASP_ARMLaDemo_bce2_externalid":{
+            "value":"/subscriptions/80b60a27-4eab-437e-899f-dde369cd1c17/resourceGroups/ARMLaDemo/providers/Microsoft.Web/serverfarms/ASP-ARMLaDemo-bce"
         },
         "connections_sql_2_name": {
             "value": "sql"
