@@ -19,7 +19,9 @@
             "name": "[parameters('sites_armLAdemo_name')]",
             "location": "Australia Southeast",
             "kind": "functionapp,workflowapp",
-            
+            "identity": {
+                "type": "SystemAssigned"
+            },
             "properties": {
                 "enabled": true,
                 "hostNameSslStates": [
